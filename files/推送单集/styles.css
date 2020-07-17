@@ -3213,7 +3213,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftTaiLe-Bold', 'Microsoft Tai Le Bold', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3229,7 +3229,7 @@
   width:61px;
   height:54px;
   display:flex;
-  font-family:'MicrosoftTaiLe-Bold', 'Microsoft Tai Le Bold', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7499,7 +7499,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -7515,7 +7515,7 @@
   width:88px;
   height:32px;
   display:flex;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -7551,7 +7551,7 @@
   width:14px;
   height:14px;
   display:flex;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
 }
@@ -8011,7 +8011,7 @@
   width:19px;
   height:16px;
   display:flex;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
 }
